@@ -1,0 +1,7 @@
+__pycache__/*
+weights/*
+output/*
+.idea/*
+utils/__pycache__/*
+!weights/test.txt
+!output/test.txt
